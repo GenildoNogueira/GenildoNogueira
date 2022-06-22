@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Genildo Nogueira 👋
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/genildo_nogueira1/)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
