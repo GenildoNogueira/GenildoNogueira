@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=user97116)
+![](https://komarev.com/ghpvc/?username=GenildoNogueira)
 
-[![Amar's github stats](https://github-readme-stats.vercel.app/api?username=user97116&count_private=true&theme=cobalt&show_icons=true)](https://github.com/GenildoNogueira)
+[![Amar's github stats](https://github-readme-stats.vercel.app/api?username=GenildoNogueira&count_private=true&theme=cobalt&show_icons=true)](https://github.com/GenildoNogueira)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user97116&layout=compact&theme=cobalt)](https://github.com/GenildoNogueira/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GenildoNogueira&layout=compact&theme=cobalt)](https://github.com/GenildoNogueira/)
