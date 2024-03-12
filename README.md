@@ -10,11 +10,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
 
-[![Amar's github stats](https://github-readme-stats.vercel.app/api?username=GenildoNogueira&count_private=true&theme=cobalt&show_icons=true)](https://github.com/GenildoNogueira)
-</br>
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GenildoNogueira&layout=compact&theme=cobalt)](https://github.com/GenildoNogueira/)
-
 <!--
 **GenildoNogueira/GenildoNogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
