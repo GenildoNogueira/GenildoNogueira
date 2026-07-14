@@ -8,7 +8,6 @@ Sou um desenvolvedor de software focado em criar aplicativos multiplataforma mod
 
 - 🔭 Trabalhando em soluções completas, desde a UI no mobile até a arquitetura do banco de dados.
 - 💡 Foco atual em desenvolvimento full-stack com **Flutter**, **Go**, **Next.js** e **Supabase**.
-- 📫 Como chegar até mim: *(Em breve!)*
 
 ## 🛠️ Tecnologias e Ferramentas
 
